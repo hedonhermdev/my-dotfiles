@@ -1,0 +1,12 @@
+vim
+python
+python3-dev
+cmake
+gcc
+zsh
+oh-my-zsh
+ttf-hack
+fortune
+cowsay
+lolcat
+
