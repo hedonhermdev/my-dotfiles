@@ -13,7 +13,7 @@ echo "Proceed? [Y/n]"
 read resp
 
 # Exit if response is not Y/y/
-if [$resp != 'Y' -a $resp != 'Y']; do
+if [$resp != 'Y' -a $resp != 'Y']; then 
 	return 1
 fi
 
